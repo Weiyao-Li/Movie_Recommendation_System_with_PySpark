@@ -1,4 +1,4 @@
-# Movie_Recommendation_System_with_PySpark
+# Movie Recommendation System with PySpark
 
 Dataset source: https://www.kaggle.com/code/alfarias/movie-recommendation-system-with-als-in-pyspark/input
 
